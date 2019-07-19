@@ -21,3 +21,4 @@ from .convenience import check_opencv_version
 from .convenience import build_montages
 from .convenience import adjust_brightness_contrast
 from .meta import find_function
+from .mj_img_utils import open_rgb
